@@ -1,3 +1,5 @@
+Left off: Finishing getting the RGB values and returning them to the main function
+
 Basic Idea description:
 1. Allow an image to be given to a cmd line window
 2. Allow arguments for detail

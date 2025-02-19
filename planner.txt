@@ -1,0 +1,27 @@
+Basic Idea description:
+1. Allow an image to be given to a cmd line window
+2. Allow arguments for detail
+3. Allow arguments for color
+4. Return image to same directory with "text" added onto the end of the filename
+
+Functionality:
+
+
+
+
+Future Functionality:
+
+
+
+
+Classes:
+
+
+
+
+Functions:
+
+
+
+
+
